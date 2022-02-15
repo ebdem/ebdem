@@ -1,5 +1,6 @@
 
-<img src="https://media.giphy.com/media/dXKe9WwZz1pFhQshzY/giphy.gif" align="right" width="400" height="250">
+<img src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" align="right" width="400" height="250">
+
 
 
 ### Hi there, I'm Ebubekir. :blush:
