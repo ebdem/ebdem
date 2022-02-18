@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" align="right" width="400" height="250">
+<a href="https://app.daily.dev/Demiray"><img src="https://api.daily.dev/devcards/7d7ae458ee34422b83fca68041cc7600.png?r=ao9" width="400" alt="Ebubekir's Dev Card"/></a>
 
 
 
