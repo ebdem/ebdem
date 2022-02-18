@@ -1,4 +1,4 @@
-<img src="https://github.com/ebdem/ebdem/blob/master/devcard.svg" width="400" align="right" alt="Ebubekir DEMİRAY "/>
+<img src="https://github.com/ebdem/ebdem/blob/main/devcard.svg" width="400" align="right" alt="Ebubekir DEMİRAY "/>
 
 
 
