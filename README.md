@@ -42,7 +42,7 @@
 
 
 ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebdem&layout=compact&theme=dark" >
+<img style="z-index: 100;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebdem&layout=compact&theme=dark" >
 
 
 
